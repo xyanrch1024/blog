@@ -1,0 +1,29 @@
+baseURL: https://xyanrch1024.github.io
+languageCode: zh-cn
+title: xyanrch 的博客
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "你好 👋"
+    Content: "欢迎来到我的博客"
+  socialIcons:
+    - name: github
+      url: "https://github.com/xyanrch1024"
+
+menu:
+  main:
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 10
+    - identifier: search
+      name: 搜索
+      url: /search/
+      weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
