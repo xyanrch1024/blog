@@ -1,6 +1,6 @@
 ---
 title: 'Deploy Hugo Blog to GitHub Pages'
-date: 2026-07-06T12:00:00+08:00
+date: 2026-07-06T11:30:00+08:00
 draft: false
 summary: "A step-by-step guide to setting up a Hugo blog with automatic deployment to GitHub Pages using GitHub Actions."
 ---
