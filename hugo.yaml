@@ -11,10 +11,12 @@ languages:
     title: xyanrch 的博客
     params:
       homeInfoParams:
+        Title: "太阳强烈，水波温柔"
         Content: |-
           热爱自由，喜欢编程，乐于探索未知，享受旅行。
 
-          活在这珍贵的人间。太阳强烈，水波温柔
+          活在这珍贵的人间
+          — 海子
     menu:
       main:
         - identifier: posts
