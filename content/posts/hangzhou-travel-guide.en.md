@@ -1,6 +1,6 @@
 ---
 title: 'Hangzhou Travel Guide'
-date: 2026-09-06T12:30:00+08:00
+date: 2025-09-06T12:30:00+08:00
 draft: false
 cover:
   image: "https://picsum.photos/id/300/800/400"
