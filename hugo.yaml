@@ -1,7 +1,7 @@
 baseURL: https://xyanrch1024.github.io
 theme: PaperMod
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 
 languages:
