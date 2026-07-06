@@ -72,6 +72,11 @@ outputs:
     - RSS
     - JSON
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   socialIcons:
     - name: github
