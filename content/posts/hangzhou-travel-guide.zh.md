@@ -2,6 +2,10 @@
 title: '杭州旅游指南'
 date: 2026-07-06T12:30:00+08:00
 draft: false
+weight: 2
+cover:
+  image: "https://picsum.photos/id/300/800/400"
+  alt: "杭州西湖"
 categories: ["生活"]
 tags: ["杭州", "旅游"]
 summary: "杭州旅游攻略，涵盖西湖、灵隐寺等必去景点和美食推荐。"

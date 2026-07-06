@@ -2,6 +2,10 @@
 title: '使用 Hugo + GitHub Pages 搭建博客'
 date: 2026-07-06T11:30:00+08:00
 draft: false
+weight: 1
+cover:
+  image: "https://picsum.photos/id/200/800/400"
+  alt: "Hugo + GitHub Pages"
 categories: ["技术"]
 tags: ["Hugo", "GitHub Pages", "教程"]
 summary: "一步步教你用 Hugo 搭建博客，通过 GitHub Actions 自动部署到 GitHub Pages。"

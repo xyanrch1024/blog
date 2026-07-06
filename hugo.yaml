@@ -19,10 +19,14 @@ languages:
           name: 文章
           url: /posts/
           weight: 10
+        - identifier: archives
+          name: 归档
+          url: /archives/
+          weight: 20
         - identifier: search
           name: 搜索
           url: /search/
-          weight: 20
+          weight: 25
         - identifier: about
           name: 关于
           url: /about/
@@ -53,10 +57,14 @@ languages:
           name: Posts
           url: /en/posts/
           weight: 10
+        - identifier: archives
+          name: Archive
+          url: /en/archives/
+          weight: 20
         - identifier: search
           name: Search
           url: /en/search/
-          weight: 20
+          weight: 25
         - identifier: about
           name: About
           url: /en/about/
@@ -79,6 +87,21 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+params:
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  ShowShareButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+
+  cover:
+    hiddenInList: false
+    hiddenInSingle: false
 
 markup:
   goldmark:

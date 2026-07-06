@@ -2,6 +2,10 @@
 title: 'Hello World'
 date: 2026-07-06T11:26:47+08:00
 draft: false
+weight: 10
+cover:
+  image: "https://picsum.photos/id/100/800/400"
+  alt: "Hello World"
 categories: ["技术"]
 tags: ["随笔"]
 summary: "我的第一篇博客，使用 Hugo + GitHub Pages 搭建。"
