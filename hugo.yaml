@@ -51,6 +51,8 @@ languages:
     weight: 2
     title: xyanrch's Blog
     params:
+      logo:
+        text: "xyanrch's Blog"
       homeInfoParams:
         Title: "Strong sun, gentle waves"
         Content: |-
