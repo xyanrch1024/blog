@@ -11,11 +11,10 @@ languages:
     title: xyanrch 的博客
     params:
       homeInfoParams:
-        Title: "太阳强烈，水波温柔"
         Content: |-
           热爱自由，喜欢编程，乐于探索未知，享受旅行。
 
-          活在这珍贵的人间
+          活在这珍贵的人间。太阳强烈，水波温柔
     menu:
       main:
         - identifier: posts
@@ -51,14 +50,13 @@ languages:
     weight: 2
     title: xyanrch's Blog
     params:
-      logo:
-        text: "xyanrch's Blog"
       homeInfoParams:
-        Title: "Strong sun, gentle waves"
         Content: |-
           Love freedom, love coding, enjoy exploring the unknown, love traveling.
 
           Living in this precious world
+          Strong sun, gentle waves
+          — by 海子
     menu:
       main:
         - identifier: posts
