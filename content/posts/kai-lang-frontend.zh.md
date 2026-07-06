@@ -2,7 +2,6 @@
 title: '用 2000 行 C++ 写一个类 Lua 语言的前端'
 date: 2026-07-06T15:00:00+08:00
 draft: false
-weight: 4
 cover:
   image: "https://picsum.photos/id/160/800/400"
   alt: "Compiler"

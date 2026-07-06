@@ -2,7 +2,6 @@
 title: 'Hangzhou Travel Guide'
 date: 2026-07-06T12:30:00+08:00
 draft: false
-weight: 2
 cover:
   image: "https://picsum.photos/id/300/800/400"
   alt: "West Lake Hangzhou"

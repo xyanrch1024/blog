@@ -2,7 +2,6 @@
 title: 'Building a Stack-Based VM: Design Walkthrough'
 date: 2026-07-06T14:00:00+08:00
 draft: false
-weight: 3
 cover:
   image: "https://picsum.photos/id/84/800/400"
   alt: "Stack VM"
