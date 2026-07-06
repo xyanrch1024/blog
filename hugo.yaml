@@ -11,7 +11,7 @@ languages:
     title: xyanrch 的博客
     params:
       homeInfoParams:
-        Title: "你好 👋"
+        Title: "Hi there"
         Content: "欢迎来到我的博客"
     menu:
       main:
@@ -23,13 +23,17 @@ languages:
           name: 搜索
           url: /search/
           weight: 20
+        - identifier: about
+          name: 关于
+          url: /about/
+          weight: 30
   en:
     languageName: English
     weight: 2
     title: xyanrch's Blog
     params:
       homeInfoParams:
-        Title: "Hello 👋"
+        Title: "Hi there"
         Content: "Welcome to my blog"
     menu:
       main:
@@ -41,6 +45,10 @@ languages:
           name: Search
           url: /en/search/
           weight: 20
+        - identifier: about
+          name: About
+          url: /en/about/
+          weight: 30
 
 outputs:
   home:
