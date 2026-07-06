@@ -13,7 +13,7 @@ jobs:
       - run: hugo --minify
       - uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.DEPLOY_TOKEN }}
+          personal_token: ${{ secrets.DEPLOY_TOKEN }}
           publish_dir: ./public
           external_repository: xyanrch1024/xyanrch1024.github.io
           publish_branch: main
