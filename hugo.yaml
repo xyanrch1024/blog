@@ -11,7 +11,7 @@ languages:
     title: xyanrch 的博客
     params:
       homeInfoParams:
-        Title: "Hi there"
+        Title: "你好"
         Content: "欢迎来到我的博客"
     menu:
       main:
@@ -41,7 +41,7 @@ languages:
     title: xyanrch's Blog
     params:
       homeInfoParams:
-        Title: "Hi there"
+        Title: "Hello"
         Content: "Welcome to my blog"
     menu:
       main:
