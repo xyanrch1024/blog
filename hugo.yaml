@@ -20,27 +20,27 @@ languages:
       main:
         - identifier: posts
           name: 文章
-          url: /posts/
+          url: /zh/posts/
           weight: 10
         - identifier: archives
           name: 归档
-          url: /archives/
+          url: /zh/archives/
           weight: 20
         - identifier: search
           name: 搜索
-          url: /search/
+          url: /zh/search/
           weight: 25
         - identifier: about
           name: 关于
-          url: /about/
+          url: /zh/about/
           weight: 30
         - identifier: categories
           name: 分类
-          url: /categories/
+          url: /zh/categories/
           weight: 40
         - identifier: tags
           name: 标签
-          url: /tags/
+          url: /zh/tags/
           weight: 50
         - identifier: github
           name: GitHub
@@ -61,27 +61,27 @@ languages:
       main:
         - identifier: posts
           name: Posts
-          url: /en/posts/
+          url: /posts/
           weight: 10
         - identifier: archives
           name: Archive
-          url: /en/archives/
+          url: /archives/
           weight: 20
         - identifier: search
           name: Search
-          url: /en/search/
+          url: /search/
           weight: 25
         - identifier: about
           name: About
-          url: /en/about/
+          url: /about/
           weight: 30
         - identifier: categories
           name: Categories
-          url: /en/categories/
+          url: /categories/
           weight: 40
         - identifier: tags
           name: Tags
-          url: /en/tags/
+          url: /tags/
           weight: 50
         - identifier: github
           name: GitHub
