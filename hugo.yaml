@@ -11,11 +11,11 @@ languages:
     title: xyanrch 的博客
     params:
       homeInfoParams:
-        Title: "你好 👏"
-        Content: |-
-          欢迎来到我的博客
+    Title: "太阳强烈，水波温柔"
+    Content: |-
+      热爱自由，喜欢编程，乐于探索未知，享受旅行。
 
-          ![img](https://picsum.photos/id/1015/800/300)
+      活在这珍贵的人间
     menu:
       main:
         - identifier: posts
@@ -52,11 +52,11 @@ languages:
     title: xyanrch's Blog
     params:
       homeInfoParams:
-        Title: "Hello 👏"
-        Content: |-
-          Welcome to my blog
+    Title: "Strong sun, gentle waves"
+    Content: |-
+      Love freedom, love coding, enjoy exploring the unknown, love traveling.
 
-          ![img](https://picsum.photos/id/1015/800/300)
+      Living in this precious world
     menu:
       main:
         - identifier: posts
