@@ -2,6 +2,8 @@
 title: 'Hello World'
 date: 2026-07-06T11:26:47+08:00
 draft: false
+categories: ["技术"]
+tags: ["随笔"]
 summary: "我的第一篇博客，使用 Hugo + GitHub Pages 搭建。"
 ---
 

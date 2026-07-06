@@ -27,6 +27,14 @@ languages:
           name: 关于
           url: /about/
           weight: 30
+        - identifier: categories
+          name: 分类
+          url: /categories/
+          weight: 40
+        - identifier: tags
+          name: 标签
+          url: /tags/
+          weight: 50
   en:
     languageName: English
     weight: 2
@@ -49,6 +57,14 @@ languages:
           name: About
           url: /en/about/
           weight: 30
+        - identifier: categories
+          name: Categories
+          url: /en/categories/
+          weight: 40
+        - identifier: tags
+          name: Tags
+          url: /en/tags/
+          weight: 50
 
 outputs:
   home:

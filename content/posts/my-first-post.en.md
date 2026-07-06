@@ -2,6 +2,8 @@
 title: 'Hello World'
 date: 2026-07-06T11:26:47+08:00
 draft: false
+categories: ["Tech"]
+tags: ["Random"]
 summary: "My first blog post powered by Hugo and GitHub Pages."
 ---
 
