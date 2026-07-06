@@ -35,6 +35,10 @@ languages:
           name: 标签
           url: /tags/
           weight: 50
+        - identifier: github
+          name: GitHub
+          url: https://github.com/xyanrch1024
+          weight: 60
   en:
     languageName: English
     weight: 2
@@ -65,6 +69,10 @@ languages:
           name: Tags
           url: /en/tags/
           weight: 50
+        - identifier: github
+          name: GitHub
+          url: https://github.com/xyanrch1024
+          weight: 60
 
 outputs:
   home:
@@ -76,8 +84,3 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
-params:
-  socialIcons:
-    - name: github
-      url: "https://github.com/xyanrch1024"
