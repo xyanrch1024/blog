@@ -8,5 +8,5 @@ draft: false
 
 ## GitHub
 
-- [xyanrch](https://github.com/xyanrch) — 我的主账号
+- [xyanrch](https://github.com/xyanrch) — 以前的账号（2FA 丢失，无法登录）
 - [xyanrch1024](https://github.com/xyanrch1024) — 当前活跃账号

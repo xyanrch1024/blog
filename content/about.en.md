@@ -8,5 +8,5 @@ I'm a programmer who loves coding.
 
 ## GitHub
 
-- [xyanrch](https://github.com/xyanrch) — my main account
+- [xyanrch](https://github.com/xyanrch) — previous account (inaccessible, 2FA lost)
 - [xyanrch1024](https://github.com/xyanrch1024) — currently active account
