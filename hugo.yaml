@@ -94,7 +94,7 @@ params:
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   ShowToc: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowRssButtonInSectionTermList: true
   ShowAllPagesInArchive: true
   ShowPageNums: true
