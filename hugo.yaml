@@ -12,7 +12,10 @@ languages:
     params:
       homeInfoParams:
         Title: "你好 👏"
-        Content: "欢迎来到我的博客"
+        Content: |-
+          欢迎来到我的博客
+
+          ![img](https://picsum.photos/id/1015/800/300)
     menu:
       main:
         - identifier: posts
@@ -50,7 +53,10 @@ languages:
     params:
       homeInfoParams:
         Title: "Hello 👏"
-        Content: "Welcome to my blog"
+        Content: |-
+          Welcome to my blog
+
+          ![img](https://picsum.photos/id/1015/800/300)
     menu:
       main:
         - identifier: posts

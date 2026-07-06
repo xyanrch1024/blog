@@ -3,9 +3,6 @@ title: 'Deploy Hugo Blog to GitHub Pages'
 date: 2026-07-06T11:30:00+08:00
 draft: false
 weight: 1
-cover:
-  image: "https://picsum.photos/id/200/800/400"
-  alt: "Hugo + GitHub Pages"
 categories: ["Tech"]
 tags: ["Hugo", "GitHub Pages", "Tutorial"]
 summary: "A step-by-step guide to setting up a Hugo blog with automatic deployment to GitHub Pages using GitHub Actions."
