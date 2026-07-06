@@ -2,9 +2,6 @@
 title: '用 2000 行 C++ 写一个类 Lua 语言的前端'
 date: 2026-07-06T15:00:00+08:00
 draft: false
-cover:
-  image: "https://picsum.photos/id/160/800/400"
-  alt: "Compiler"
 categories: ["技术"]
 tags: ["编译器", "VM", "Lua"]
 summary: "从词法分析、语法分析到字节码编译，完整实现一个类 Lua 语言的前端。"

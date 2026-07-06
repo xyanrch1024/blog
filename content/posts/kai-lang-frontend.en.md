@@ -2,9 +2,6 @@
 title: 'Building a Lua-like Language Frontend in C++'
 date: 2026-07-06T15:00:00+08:00
 draft: false
-cover:
-  image: "https://picsum.photos/id/160/800/400"
-  alt: "Compiler"
 categories: ["Tech"]
 tags: ["Compiler", "VM", "Lua"]
 summary: "From lexer and parser to bytecode compiler — building a Lua-like language frontend for a stack-based VM."

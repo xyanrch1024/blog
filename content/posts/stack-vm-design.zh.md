@@ -2,9 +2,6 @@
 title: '从零实现一个栈式虚拟机：设计文档解读'
 date: 2026-07-06T14:00:00+08:00
 draft: false
-cover:
-  image: "https://picsum.photos/id/84/800/400"
-  alt: "Stack VM"
 categories: ["技术"]
 tags: ["编译器", "VM"]
 summary: "解读我实现的一个栈式虚拟机的设计文档，涵盖架构、指令集、执行模型和内存管理。"
